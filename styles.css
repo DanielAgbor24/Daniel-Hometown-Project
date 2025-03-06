@@ -83,7 +83,7 @@ img {
 
 #to-do{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 10px 15px;
     margin: 20px 0px;
 }
